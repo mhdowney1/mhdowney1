@@ -30,3 +30,13 @@ Languages: JavaScript / TypeScript / SQL
 Frontend: Next / React / Next.js / Material UI / Tailwind  
 Backend: Node.js / Express / MongoDB / MySQL  
 Infra & Tools: AWS / Docker / Vercel / Firebase / Stripe / GitHub Actions
+
+---
+
+### 📬 Get In Touch
+
+- 📧 Email: michael@vampcreatives.com  
+- 💼 LinkedIn: [linkedin.com/in/michaeldowney](https://linkedin.com/in/michaeldowney)  
+- 🌐 Website: [michaeldowney.dev](https://michaeldowney.dev) _(coming soon)_
+
+I’m always open to chats about startups, MVPs, or collaboration opportunities.
