@@ -1,42 +1,26 @@
-# 👋 Hey, I'm Michael Downey
+### Hi, I'm Michael
 
-🛠️ From building houses to building products  
-I'm a full-stack engineer, startup builder, and co-founder of [Vamp Creatives](https://vampcreatives.com) — a product studio helping student founders bring ideas to life with functional MVPs and interactive prototypes.
+I'm a full-stack engineer and co-founder of [Vamp Creatives](https://vampcreatives.com), a product studio for early-stage founders in Belfast and Miami.
 
----
+We turn founder ideas into products that get funded. We help you work out what to build first, then we build it, in weeks rather than months.
 
-### 🚀 About Me
+### Recent work
 
-- 🏗️ Started my career in **residential construction**, golf retail, and caddying at Royal County Down  
-- 👨‍🎓 Went back to uni at 24 to study **Business Information Technology** at Queen’s University Belfast  
-- 💻 Fell in love with coding after a Java course — never looked back  
-- 💼 Now 6+ years at **On The Stage**, I’ve played a key role in helping the product scale — contributing to more than **10x revenue growth**, building end-to-end features across the stack, improving performance, and supporting architectural decisions as the team expanded
-- 🌱 Currently building MVPs using **Next** **React**, **Node.js**, **MongoDB**, **Stripe**, and **Firebase**
+- **[Benchmark Sports](https://benchmarksports.co.uk)**. Training session planning for GAA clubs, with accounts, subscriptions and an admin dashboard. Ready for paying customers from launch.
+- **Spare Chair AI**. A salon booking platform that fills empty chairs with discounted slots. Idea to tested prototype in weeks, ready for investor conversations.
+- **[Civics Study](https://civicsstudy.com)**. My own product. Practise all 128 questions for the US citizenship civics test out loud, take mock interviews and track progress.
 
----
+### Background
 
-### 🧠 What I'm Working On
+- Seven years helping a bootstrapped startup scale from a small team to a full product, design and engineering organisation
+- Queen's University Belfast graduate
+- I work with founders backed by QUB, Ulster University and Catalyst programmes
 
-- 🎓 Scaling [Vamp Creatives](https://vampcreatives.com) with my brother to support student entrepreneurs
-- 🔨 Freelance MVP development for early-stage founders
-- 🧪 Personal side projects that solve real-world problems (check below 👇)
+### What I build with
 
----
+React, React Native and Expo, Next.js, Node.js, Firebase and Stripe.
 
-### 🛠️ Tech Stack
+### Get in touch
 
-```ts
-Languages: JavaScript / TypeScript / SQL  
-Frontend: Next / React / Next.js / Material UI / Tailwind  
-Backend: Node.js / Express / MongoDB / MySQL  
-Infra & Tools: AWS / Docker / Vercel / Firebase / Stripe / GitHub Actions
-
----
-
-### 📬 Get In Touch
-
-- 📧 Email: michael@vampcreatives.com  
-- 💼 LinkedIn: [linkedin.com/in/michaeldowney](https://linkedin.com/in/michaeldowney)  
-- 🌐 Website: [michaeldowney.dev](https://michaeldowney.dev) _(coming soon)_
-
-I’m always open to chats about startups, MVPs, or collaboration opportunities.
+- Studio: [vampcreatives.com](https://vampcreatives.com)
+- Book a free call: [calendly.com/vampcreatives](https://calendly.com/vampcreatives/30min)
